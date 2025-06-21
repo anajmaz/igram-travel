@@ -1,5 +1,5 @@
 # PROJETO ROCKETSEAT - TRAVELGRAM
-Esse projeto foi realizado durante um curso da plataforma Rocketseat, com o objetivo de aprimorar minhas habilidades em HTML e CSS.
+Esse projeto foi realizado com o objetivo de aprimorar minhas habilidades em HTML e CSS.
 O projeto consiste em um site de publicações de viagens.
 
 ## TECNOLOGIAS USADAS
